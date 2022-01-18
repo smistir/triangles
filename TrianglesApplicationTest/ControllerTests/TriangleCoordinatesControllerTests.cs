@@ -1,10 +1,9 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
+using System.Web.Http;
+using System.Web.Http.Results;
 using TrianglesApplication.Controllers;
 using TrianglesApplication.Models;
 using TrianglesApplication.Models.Enums;
-using System.Web.Http;
-using System.Web.Http.Results;
 
 namespace TrianglesApplicationTest.ControllerTests
 {
