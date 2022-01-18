@@ -1,6 +1,6 @@
 ﻿using System.Web.Http;
-using TrianglesApplication.Models;
 using TrianglesApplication.Extensions;
+using TrianglesApplication.Models;
 
 namespace TrianglesApplication.Controllers
 {

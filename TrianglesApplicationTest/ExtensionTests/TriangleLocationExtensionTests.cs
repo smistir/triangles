@@ -1,7 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using TrianglesApplication.Models;
 using TrianglesApplication.Extensions;
+using TrianglesApplication.Models;
 using TrianglesApplication.Models.Enums;
 
 namespace TrianglesApplicationTest.ExtensionTests

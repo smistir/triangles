@@ -1,6 +1,4 @@
-﻿
-
-using TrianglesApplication.Helpers;
+﻿using TrianglesApplication.Helpers;
 using TrianglesApplication.Models.Enums;
 
 namespace TrianglesApplication.Utilities
